@@ -8,10 +8,14 @@ This project presents a Password Generator which was developed with JavaScript t
 
 N/A
 
+## Assets
+
+./Assets/03-javascript-homework-demo.png
+
 ## Links
 
 Used class material for reference as well as searches on: 
 https://www.google.com
 https://www.owasp.org/index.php/Password_special_characters
 
-## Deployed application
+
