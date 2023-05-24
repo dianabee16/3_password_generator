@@ -14,7 +14,7 @@ N/A
 
 ## Links
 
-Used class material for reference as well as searches on: 
+Used class material for reference, as well as searches on: 
 https://www.google.com
 https://www.owasp.org/index.php/Password_special_characters
 
